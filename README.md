@@ -1,6 +1,6 @@
 <h1 align="center">✨ TactiToe- Basic Tic-Tac-Toe Game ✨</h1>
 
-NexusTalk is a real-time video chat and language exchange platform that connects users worldwide combining video calling with interactive chat features, it helps learners practice languages with native speakers in a seamless digital environment.
+TactiToe reinvents the pencil-and-paper classic as a responsive web app, combining HTML5 Canvas rendering with score tracking. Players enjoy buttery-smooth grid interactions and match replays, all built with vanilla JavaScript (ES6+) for cross-device compatibility.
 
 ## Screenshots
 
